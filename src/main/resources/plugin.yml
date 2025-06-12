@@ -1,0 +1,7 @@
+name: offbrandringbound
+version: '1.0.0-BETA'
+main: xyz.dragin.offbrandringbound.Offbrandringbound
+api-version: '1.21'
+authors: [ Dragin ]
+description: yes
+website: https://dragin.xyz
