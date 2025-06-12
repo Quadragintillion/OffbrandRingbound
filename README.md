@@ -1,0 +1,1 @@
+i found this random smp called [ringbound](https://www.youtube.com/watch?v=naXG3FR-TW0) that gave basically no information about how it worked, so i decided to make my own version in under an hour based on the insanely small amount of info i had
