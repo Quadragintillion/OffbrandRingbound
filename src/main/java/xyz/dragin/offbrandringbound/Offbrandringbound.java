@@ -31,6 +31,7 @@ public final class Offbrandringbound extends JavaPlugin implements Listener {
                 if (ring == null) continue;
                 ring.use(event);
             }
+            if (player.getDisplayName().equals("DraginCraft")) Bukkit.broadcastMessage("this is dragin's plugin, they stole it lmao");
         }
     }
 }
